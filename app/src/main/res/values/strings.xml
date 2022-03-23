@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Sparcoon</string>
+    <string name="action_settings">Paramètres</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Première page</string>
+    <string name="second_fragment_label">Seconde page</string>
+    <string name="next">Suivant</string>
+    <string name="previous">Retour</string>
+    <string name="nicolas">Tu es Nicolas ?</string>
+    <string name="second_button">Voiture</string>
+    <string name="second_text">Dacia Duster P20</string>
+
+    <string name="calcul_button">Calculer un nombre aléatoire</string>
+    <string name="calcul_text">Appuyer sur le bouton pour calculer</string>
+
+    <string name="hello_first_fragment">Bienvenue sur la première page</string>
+    <string name="hello_second_fragment">Lorem Ipsum Lore Lorea. Arg: %1$s</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
